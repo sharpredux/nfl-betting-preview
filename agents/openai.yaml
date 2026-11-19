@@ -1,0 +1,6 @@
+interface:
+  display_name: "NFL Betting Preview"
+  short_description: "Sourced NFL matchup and betting market analysis"
+  default_prompt: "Use $nfl-betting-preview to preview the NFL matchup I named and compare the current spread, total, and moneyline."
+policy:
+  allow_implicit_invocation: true
